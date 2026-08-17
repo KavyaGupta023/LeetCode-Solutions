@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2951-find-the-peaks](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
 ## Hash Table
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2951-find-the-peaks](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
