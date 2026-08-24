@@ -1,5 +1,7 @@
 class Solution {
-    int func(int n){
+    public int climbStairs(int n) {
+        if(n==1) return 1;
+        if(n==2) return 2;
         int pr1=1;
         int pr2=2;
         for(int i=3;i<=n;i++){
@@ -8,13 +10,5 @@ class Solution {
             pr2=curr;
         }
         return pr2;
-
-    }
-    public int climbStairs(int n) {
-        if(n==0) return 0;
-        if(n==1) return 1;
-        if(n==2) return 2;
-        
-        return func(n);
     }
 }
