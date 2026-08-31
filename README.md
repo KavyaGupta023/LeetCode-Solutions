@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2951-find-the-peaks](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
