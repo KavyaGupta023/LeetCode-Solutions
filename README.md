@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [3870-count-commas-in-range](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
