@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0458-poor-pigs](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
 | [0836-rectangle-overlap](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0458-poor-pigs](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0458-poor-pigs](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
 <!---LeetCode Topics End-->
