@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2951-find-the-peaks](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
