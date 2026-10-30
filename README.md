@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -149,10 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
