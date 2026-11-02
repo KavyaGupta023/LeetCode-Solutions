@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -174,9 +175,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
