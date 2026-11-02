@@ -15,10 +15,10 @@ class MyStack {
         q2.offer(q1.poll());
        }
        int x=q1.poll();
-       Queue<Integer> temp=q1;
-       q1=q2;
-       q2=temp;
-        return x;
+       while(!q2.isEmpty()){
+        q1.offer(q2.poll());
+       }
+       return x;
     }
     
     public int top() {
@@ -27,9 +27,9 @@ class MyStack {
        }
        int x=q1.peek();
        q2.offer(q1.poll()); 
-       Queue<Integer> temp=q1;
-       q1=q2;
-       q2=temp;
+       while(!q2.isEmpty()){
+        q1.offer(q2.poll());
+       }
        return x;
     }
     
