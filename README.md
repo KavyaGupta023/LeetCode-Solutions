@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0458-poor-pigs](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
