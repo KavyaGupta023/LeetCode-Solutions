@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
