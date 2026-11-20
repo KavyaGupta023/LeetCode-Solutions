@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2951-find-the-peaks](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0458-poor-pigs](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
