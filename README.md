@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
