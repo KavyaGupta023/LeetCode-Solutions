@@ -241,4 +241,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3934-smallest-unique-subarray](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/KavyaGupta023/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
